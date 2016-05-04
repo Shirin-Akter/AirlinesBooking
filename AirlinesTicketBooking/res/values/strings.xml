@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Airlines Ticket Booking</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="editLabel">Welcome to the online ticket booking........ Please log in to start your ticket booking</string>
+    <string name="edit_register">If you are not registered, please press the button below to register</string>
+    <string name="button_send">Send</string>
+    <string name="button_register">Register</string>
+    <string name="edit_name">Name</string>
+    <string name="edit_password">Password</string>
+    <string name="button_press">Press</string>
+    <string name="edit_text"></string>
+    <string name="edit_text1">hello,, this is the 2nd screen</string>
+    <string name="edit_text11">Welcome,,, you are viewing the 2nd page</string>
+    <string name="edit_first">First name</string>
+    <string name="edit_last">Last Name</string>
+    <string name="text_first"></string>
+    <string name="text_last"></string>
+    <string name="edit_email">Email</string>
+    <string name="text_email"></string>
+    <string name="edit_mobile">Mobile</string>
+    <string name="text_mobile"></string>
+    <string name="btn_biman">"Biman "</string>
+    <string name="btn_united">United Airways</string>
+    <string name="btn_jet">Jet Airways</string>
+    <string name="btn_biman1">Biman Airways</string>
+    <string name="et_name">Name:</string>
+    <string name="et_mail">E-mail:</string>
+    <string name="et_pass">Password:</string>
+    <string name="btn_log">Log In</string>
+    <string name="btn_reg">Register</string>
+    <string name="edt_name">Name:</string>
+    <string name="edt_mail">E-mail:</string>
+    <string name="edt_pass">Password:</string>
+    <string name="edt_phn">Phone:</string>
+    <string name="rad_male">Male</string>
+    <string name="rad_fe">Female</string>
+    <string name="btn_reg1">Register</string>
+    <string name="txt_frm">From:</string>
+    <string name="txt_city">City:</string>
+    <string name="txt_to">To:</string>
+    <string name="txt_city1">City:</string>
+    <string name="btn_ok">OK</string>
+    <string name="edit_con">Country</string>
+    <string name="edit_con1">Country:</string>
+    <string name="edit_con2">Country:</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="edit_buk">Booking:</string>
+    <string name="btn_seat1">Executive Seats</string>
+    <string name="btn_seat11">EXECUTIVE CLASS</string>
+    <string name="btn_seat2">BUSINESS CLASS</string>
+    <string name="btn_seat3">ECONOMY CLASS</string>
+    <string-array name="Country_frst">
+        <item >America</item>
+        <item >Bangladesh</item>
+        <item >India</item>
+    </string-array>
+    <string-array name="City_list">
+        <item >sylhet</item>
+        <item >Mumbai</item>
+        <item >Dhaka</item>
+        <item >Chittagong</item>
+    </string-array>
+    <color name="Red">#FF0000</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Dark_blue">#0000A0</color>
+    <color name="Light_blue">#64D2DF</color>
+    <color name="Light_green">#5FC688</color>
+    <color name="Purple">#8A2BE2</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Grey">#808080</color>
+    <color name="Black">#000000</color>
+    <color name="Orange">#FFA500</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="Maroon">#800000</color>
+    <color name="Green">#008000</color>
+    <string name="edit_to">TO</string>
+    <string name="rad_return">Return Flight</string>
+    <string name="rad_direct">Direct Flight</string>
+    <string name="edt_Schedule">Set Your Desirable Time And Date</string>
+    <string name="btn_ok1">OK</string>
+    <string-array name="Date">
+        <item >01/04/2014</item>
+        <item >05/04/2014</item>
+        <item >09/05/2014</item>
+        <item >20/05/2014</item>
+    </string-array>
+    <string-array name="Time">
+        <item >5:00 am</item>
+        <item >1:00 pm</item>
+        <item >9:00 pm</item>
+    </string-array>
+    <string-array name="Adult">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+    <string-array name="Child">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+    </string-array>
+        <string name="btn_book">Book Now</string>
+        <string name="edit_congr">Congratulations! your ticket is booked successfully</string>
+        <string name="edit_fare">Total Flight Fare</string>
+
+</resources>
